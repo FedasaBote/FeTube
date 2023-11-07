@@ -1,0 +1,10 @@
+###
+POST http://localhost:8800/api/auth/signup
+Content-Type: application/json
+
+{
+    "username": "fedasa",
+    "email": "fedasagete@gmail.com",
+    "password": "123456"
+}
+```
